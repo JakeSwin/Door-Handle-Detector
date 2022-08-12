@@ -5,7 +5,7 @@ The notebook used to create the model used in this container can be found at [ht
 
 ![Picture of doors with bounding boxes around the handle](./images/doordetectmerged.png)
 ## Setup
-pull the latest docker image from [https://hub.docker.com/repository/docker/jakeswin/door-handle-detector](https://hub.docker.com/repository/docker/jakeswin/door-handle-detector)
+pull the latest docker image from [https://hub.docker.com/r/jakeswin/door-handle-detector](https://hub.docker.com/r/jakeswin/door-handle-detector)
 
 ```bash
 docker pull jakeswin/door-handle-detector 
