@@ -3,8 +3,7 @@ Files for building and interacting with the door handle detector docker image.
 
 The notebook used to create the model used in this container can be found at [https://www.kaggle.com/code/jacobswindell/door-handle-object-detection-with-icevision](https://www.kaggle.com/code/jacobswindell/door-handle-object-detection-with-icevision)
 
-![Picture of a door with a bounding box around its handle](./images/door1detection.jpg)
-![Picture of a door with a bounding box around its handle](./images/door2detection.jpg)
+![Picture of doors with bounding boxes around the handle](./images/doordetectmerged.png)
 ## Setup
 pull the latest docker image from [https://hub.docker.com/repository/docker/jakeswin/door-handle-detector](https://hub.docker.com/repository/docker/jakeswin/door-handle-detector)
 
